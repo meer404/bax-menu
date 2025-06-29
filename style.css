@@ -1,6 +1,6 @@
 body {
       font-family: sans-serif;
-      background-color: #fdfdfd;
+      background-color: #e0e7ef;
     }
     header {
       background: #8B4513;
@@ -25,4 +25,15 @@ body {
     }
     .offcanvas-title {
       font-weight: bold;
+    }
+    hr {
+      border: 0;
+      height: 1px;
+      background-color: #000000;
+      margin: 5px 0;
+    }
+    a :hover,li :hover{
+     
+      color: #219ebc !important;
+      background-color: dark cyan !important;
     }
