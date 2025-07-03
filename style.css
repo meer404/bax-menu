@@ -39,21 +39,12 @@ body {
       background-color: dark cyan !important;
     }
 
-    .menu-image {
-    width: 100% !important;
-    height: 170px !important;
-    background-color: var(--card-background) !important;
-    border-radius: 8px !important;
-    margin-bottom: 15px !important;
-    overflow: hidden !important;
-    position: relative !important;
-    border: 1px solid var(--border-color) !important;
-    transition: border-color var(--transition-speed) ease !important;
+h2{
+  color: #000000 !important; background-color: #ffc10780 !important;
 }
-
-.menu-image img {
-    width: 100% !important;
-    height: 100% !important;
-    object-fit: cover !important;
-    transition: transform var(--transition-speed) ease !important;
+hr {
+  border: 5;
+  height: 1px;
+  background-color: #000000;
+  margin: 5px 0;
 }
